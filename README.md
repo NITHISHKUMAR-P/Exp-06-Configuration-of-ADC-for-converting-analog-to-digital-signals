@@ -1,12 +1,12 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals:
 
-Name :	Nithishkumar P
+### Name :	Nithishkumar P
 
 
-Roll no: 212221230070
+### Roll no: 212221230070
 
 
-Date of Experiment : 13/11/2022
+### Date of Experiment : 13/11/2022
   
   
 ## Aim: 
